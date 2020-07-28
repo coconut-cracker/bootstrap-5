@@ -13,3 +13,10 @@ body {
     rgba(0, 212, 255, 1) 100%
   );
 }
+
+.page-header {
+  margin-top: 4rem;
+  font-size: 1.25rem;
+  color: #fff;
+  height: 500px;
+}
